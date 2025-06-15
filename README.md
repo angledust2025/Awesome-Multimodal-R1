@@ -1,1 +1,0 @@
-# Awesome-Multimodal-R1
